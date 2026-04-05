@@ -7,7 +7,7 @@ Este proyecto fue creado para ser parte de un tutorial para el canal de YouTube 
 🎮 Juega ahora
 
 Puedes jugar directamente en tu navegador sin instalar nada haciendo clic en el siguiente enlace:
-👉 JUGAR SWIM GAME IA 
+👉 JUGAR SWIM GAME IA https://tomasinpinguin.github.io/swim-game-ia/
 
 🔒 Aviso de Privacidad (Disclaimer sobre la Cámara)
 
